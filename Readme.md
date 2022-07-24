@@ -22,7 +22,7 @@
 
 ## Level 300
 - ### 1st Semester
-    - [CSC 305: ](https://drive.google.com/drive/folders/1LNHk_zqEBYL88o9wY-9pRyEV3pnqNr4b?usp=sharing)
+    - [CSC 305: Object Oriented Programming with C++](https://drive.google.com/drive/folders/1LNHk_zqEBYL88o9wY-9pRyEV3pnqNr4b?usp=sharing)
     
     - [CSC 301: Data Structures And Algo](https://drive.google.com/drive/folders/1T0KtwnOdpgM1Mxa5PgektyxYVbOmlA4n?usp=sharing)
 
